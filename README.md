@@ -6,3 +6,5 @@ devise:
 ```
 
 `ctrl+x -> y -> enter`
+
+For running the client just head on to `/client` then `npm i` -> `npm run dev` and you should be good to go.
